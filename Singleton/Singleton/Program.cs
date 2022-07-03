@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RefactoringGuru.DesignPatterns.Singleton.Conceptual.NonThreadSafe
+namespace pojedynczyton
 {
     
     public sealed class Singleton
