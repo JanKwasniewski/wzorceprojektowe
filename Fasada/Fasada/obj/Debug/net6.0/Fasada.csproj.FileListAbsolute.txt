@@ -1,0 +1,15 @@
+C:\Users\Jan\source\repos\Fasada\Fasada\bin\Debug\net6.0\Fasada.exe
+C:\Users\Jan\source\repos\Fasada\Fasada\bin\Debug\net6.0\Fasada.deps.json
+C:\Users\Jan\source\repos\Fasada\Fasada\bin\Debug\net6.0\Fasada.runtimeconfig.json
+C:\Users\Jan\source\repos\Fasada\Fasada\bin\Debug\net6.0\Fasada.dll
+C:\Users\Jan\source\repos\Fasada\Fasada\bin\Debug\net6.0\Fasada.pdb
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.AssemblyInfo.cs
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.dll
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\refint\Fasada.dll
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.pdb
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\Fasada.genruntimeconfig.cache
+C:\Users\Jan\source\repos\Fasada\Fasada\obj\Debug\net6.0\ref\Fasada.dll
